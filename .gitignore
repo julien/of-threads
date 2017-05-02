@@ -1,4 +1,6 @@
 emptyExample
+**libs**
 **obj**
 *.qbs
 *.qbs.user
+*_debug
